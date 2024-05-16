@@ -9,8 +9,8 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 👋 Hola soy @angelfuerza, hablo inglés y español
-- Me interesa el desarrollo WEB y el diseño UX/UI.
-- Las herramientas y lenguajes que uso: Figma, Wordpress, HTML, CSS, JS, PHP, SQL
-- Actualmente estoy trabajando como freelance y estudiando
-- Busco trabajar en proyectos independientes o colaborar con una empresa con la que resuene como desarrollador front-end. También me gusta el código abierto.
+- Me interesa el desarrollo WEB, el diseño UX/UI y código libre
+- Las herramientas y lenguajes que uso: Figma, Wordpress, HTML, CSS, Bootstrap, JS, PHP, SQL
+- Actualmente estoy estudiando y construyendo varios proyectos web
+- Busco trabajar en proyectos independientes o colaborar con una empresa con la que resuene como desarrollador web
 - Como contactarme: Rellena el formulario de contacto en angelfuerza.com
