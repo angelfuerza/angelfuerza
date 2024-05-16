@@ -1,4 +1,4 @@
--👋 Hi, I’m @angelfuerza. Web developer and designer, I speak spanish and english
+👋 Hi, I’m @angelfuerza. Web developer and designer, I speak spanish and english
 
 -  I’m interested in web development, UX/UI design and open-source 
 -  I specialize in Wordpress and Frontend development
@@ -9,7 +9,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 👋 Hola soy @angelfuerza, desarrollador web y diseñador, hablo inglés y español
+ 👋 Hola soy @angelfuerza, desarrollador web y diseñador, hablo inglés y español
   
 - Me interesa el desarrollo web, el diseño UX/UI y código libre
 - Me especializo en Wordpress y desarrollo frontend
