@@ -1,9 +1,9 @@
 -👋 Hi, I’m @angelfuerza. I speak spanish and english
--  I’m interested in web development and UX/UI design.
+-  I’m interested in web development, UX/UI design and open-source 
 -  I specialize in Wordpress and Frontend development
--  The tools and lenguages I use: Figma, Wordpress, HTML, CSS, JS, PHP, SQL
--  I’m currently working as a freelance and studying
--  I’m looking to work on freelance proyects or collaborate with a company I resonate with as a front-end developer. I also like open-source 
+-  The tools and lenguages I use: Figma, Wordpress, HTML, CSS, Bootstrap, JS, PHP, SQL
+-  I’m currently studying and working on various web projects
+-  I’m looking to work on freelance proyects or collaborate with a company I resonate with as web developer. 
 - How to reach me: Fill the contact form in angelfuerza.com  
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
